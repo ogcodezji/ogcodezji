@@ -15,7 +15,7 @@
 <a href="https://brosai.in"><img src="https://img.shields.io/badge/Portfolio-BrosAI-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/yashpalsinghrajputonit"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hello@brosai.in"><img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ogcodez"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/ogcodezji"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/>
 
@@ -183,17 +183,17 @@ Building AI-powered products, automation systems, and developer-focused solution
 
 # Certifications
 
-### AWS
+###  Generative AI by Microsoft and LinkedIn
 
-<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-### Oracle
+### Deloitte Australia
 
-<img src="https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deloitte-Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-### NPTEL
+### Coding Ninjas / ChatGPT .Open AI
 
-<img src="https://img.shields.io/badge/NPTEL-Learning-2563EB?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coding Ninjas-Learning-2563EB?style=for-the-badge&logo=academia&logoColor=white"/>
 
 ### Cisco
 
