@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7&text=Yash%20Rajpurohit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;Full+Stack+Developer;2%C3%97+Hackathon+Winner;Founder+%40+BrosAI;Building+AI+Products+That+Solve+Real+Problems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;Full+Stack+Developer;3%C3%97+Hackathon+Winner;Founder+%40+BrosAI;Building+AI+Products+That+Solve+Real+Problems" alt="Typing SVG"/>
 
 <br/>
 
